@@ -1,0 +1,10 @@
+Basal-like breast cancer is an aggressive form of breast cancer with limited treatment options.
+The subgroup can be identified immunohistochemically, by lack of hormone receptor expression combined with expression of basal markers such as CK5/6 and/or epidermal growth factor receptor (EGFR).
+In vitro, several regulators of the actin cytoskeleton are essential for efficient invasion of basal-like breast cancer cell lines.
+Whether these proteins are expressed in vivo determines the applicability of these findings in clinical settings.
+The actin-regulating formin protein FHOD1 participates in invasion of the triple-negative breast cancer cell line MDA-MB-231.
+Here, we measure the expression of FHOD1 protein in clinical triple-negative breast cancers by using immunohistochemistry and further characterize the expression of another formin protein, INF2.
+We report that basal-like breast cancers frequently overexpress formin proteins FHOD1 and INF2.
+In cell studies using basal-like breast cancer cell lines, we show that knockdown of FHOD1 or INF2 interferes with very similar processes: maintenance of cell shape, migration, invasion, and proliferation.
+Inhibition of EGFR, PI3K, or mitogen-activated protein kinase activity does not alter the expression of FHOD1 and INF2 in these cell lines.
+We conclude that the experimental studies on these formins have implications in the clinical behavior of basal-like breast cancer.

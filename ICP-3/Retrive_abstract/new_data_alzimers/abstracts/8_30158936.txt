@@ -1,0 +1,15 @@
+The histamine receptor 2 antagonist ranitidine is a commonly used, non-prescription, medication.
+It limits the development, growth, and metastasis of breast cancers in mouse models of disease.
+In this study, we examined the role of B cells in this response, the impact of ranitidine on the development of antitumor antibodies and subpopulations of natural killer cells using murine breast cancer models.
+Peripheral blood granulocyte populations were assessed in both E0771-GFP and 4T1 orthotopic tumor-bearing mice by evaluation of stained blood smears.
+Antibody responses were assessed both in terms of the levels of anti-GFP antibodies detected by enzyme-linked immunosorbent assay and also by antibody binding to the surface of tumor cells evaluated by flow cytometry.
+B cell and NK cell populations were examined in the draining lymph nodes and spleens of tumor-bearing animals, by flow cytometry with and without ranitidine treatment.
+Oral ranitidine treatment was not associated with changes in peripheral blood granulocyte populations in tumor-bearing mice.
+However, ranitidine treatment was associated with the development of enhanced antitumor antibody responses.
+This was not limited to the tumor setting since ranitidine-treated mice immunized with ovalbumin also demonstrated increased IgG antibody responses.
+Analysis of B cell populations indicated that while B1 cell populations remained unchanged there was a significant decrease in B2 cells in the tumor-draining inguinal lymph nodes.
+Notably, ranitidine did not significantly inhibit primary tumor growth in B cell-deficient animals.
+Examination of NK cell populations revealed a significant decrease in the proportion of intermediately functionally mature NK cells populations in ranitidine-treated tumor-bearing mice compared with untreated tumor-bearing controls.
+These data demonstrate an important role for B cells in the enhanced antitumor immune response that occurs in response to ranitidine treatment.
+Our findings are consistent with a model, whereby ranitidine reduces tumor-associated immune suppression allowing for the development of more effective antitumor responses mediated by B cells which may include the participation of NK cells.
+These data underline the importance of considering widely used histamine receptor antagonists as modulators of antitumor immunity to breast cancer.

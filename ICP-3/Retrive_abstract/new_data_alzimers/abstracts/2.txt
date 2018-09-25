@@ -1,0 +1,15 @@
+The clinical relevance of molecular biomarkers in oncology management has been recognized in breast and lung cancers.
+We evaluated a blood-based multigene assay for management of neuroendocrine tumors (NETs) in a real-world study (U.S.registry NCT02270567).
+Diagnostic accuracy and relationship to clinical disease status in two cohorts (treated and watch-and-wait) were evaluated.
+Patients with NETs (.
+NETest diagnostic accuracy was 96% and concordant (95%) with image-demonstrable disease.
+Scores were reproducible (97%) and concordant with clinical status (98%).
+The NETest was the only feature linked to PFS (odds ratio, 6.1; .
+Blood NETest is an accurate diagnostic and can be of use in monitoring disease status and facilitating management change in both watch-and-wait and treatment cohorts..
+A circulating multigene molecular biomarker to guide neuroendocrine tumor (NET) management has been developed because current biomarkers have limited clinical utility.
+NETest is diagnostic (96%) and in real time defines the disease status (>95%) as stable or progressive.
+It is >90% effective in guiding treatment decisions in conjunction with diagnostic imaging.
+Monitoring was effective in watch-and-wait or treatment groups.
+Low levels supported no management change and reduced the need for imaging.
+High levels indicated the need for management intervention.
+Real-time liquid biopsy assessment of NETs has clinical utility and can contribute additional value to patient management strategies and outcomes..

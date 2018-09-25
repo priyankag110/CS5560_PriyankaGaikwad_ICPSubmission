@@ -1,0 +1,8 @@
+﻿Triple-negative breast cancer (TNBC) lacks prognostic and predictive markers.
+Here, we use high-throughput phosphoproteomics to build a functional TNBC taxonomy.
+A cluster of 159 phosphosites is upregulated in relapsed cases of a training set (n = 34 patients), with 11 hyperactive kinases accounting for this phosphoprofile.
+A mass-spectrometry-to-immunohistochemistry translation step, assessing 2 independent validation sets, reveals 6 kinases with preserved independent prognostic value.
+The kinases split the validation set into two patterns: one without hyperactive kinases being associated with a >90% relapse-free rate, and the other one showing ≥1 hyperactive kinase and being associated with an up to 9.5-fold higher relapse risk.
+Each kinase pattern encompasses different mutational patterns, simplifying mutation-based taxonomy.
+Drug regimens designed based on these 6 kinases show promising antitumour activity in TNBC cell lines and patient-derived xenografts.
+In summary, the present study elucidates phosphosites and kinases implicated in TNBC and suggests a target-based clinical classification system for TNBC.

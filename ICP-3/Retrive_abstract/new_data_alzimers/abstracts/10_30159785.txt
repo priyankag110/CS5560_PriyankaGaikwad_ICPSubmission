@@ -1,0 +1,12 @@
+Primary endocrine therapy (PET) is a treatment option for elderly patients with ER-positive breast cancer enabling frail patients to avoid surgery.
+As a long-term treatment option, it has been shown to be inferior to surgery in controlling local disease.
+Decision-making in these patients is crucial in avoiding treatment failure.
+We examined the influence of decision-making on outcomes of PET failure as a secondary analysis as part of a large observational study..
+Consecutive patients treated with PET between 2005 and 2015 for operable breast cancers were included in a retrospective observational study in 3 breast centres in the North-East.
+Treatment decision processes were examined by case note review and outcomes of treatment success or failure recorded..
+488 patients were included with mean follow-up of 31 months.
+Overall 63 (12%) experienced treatment failure.
+227 (46.6%) were given a choice between surgery and PET at diagnosis.
+Logistic regression identified older age [OR 0.94 (0.91-0.96) p < 0.001] and reduced mobility [OR 0.6 (0.37-0.97) p 0.036] to be less likely offered surgery.
+Those offered surgery were more likely to experience treatment failure with PET [SHR 1.78 (1.05-3.02) p 0.033]..
+Despite a low failure rate in our series (literature failure rates vary between 12 and 85%), these results suggest that those actively offered a choice between surgery and PET are at greater risk of failure when choosing PET..

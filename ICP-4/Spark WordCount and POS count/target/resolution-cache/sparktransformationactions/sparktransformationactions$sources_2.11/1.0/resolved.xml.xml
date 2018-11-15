@@ -4,7 +4,7 @@
 		module="sparktransformationactions$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180924201311"
+		publication="20180926162642"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
